@@ -1,7 +1,7 @@
 # Customer Segmentation Project
 
 ## Overview
-This project aims to segment customers based on their annual income, spending score and age using clustering technique. The segmentation helps in identifying different customer groups to enable targeted marketing strategies and improve business decision-making. The dataset used for this project was obtained from Kaggle.
+This project aims to segment customers based on their annual income and spending score using clustering technique. The segmentation helps in identifying different customer groups to enable targeted marketing strategies and improve business decision-making. The dataset used for this project was obtained from Kaggle.
 
 ## Tools and Libraries Used
 - **Python**
